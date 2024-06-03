@@ -1,0 +1,47 @@
+<!--Dikchha Rijal, Projects.html, 2024-02-08, This page has information about my projects in programming-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is the page that contains information about my projects">
+    <meta name="keywords" content="Favourite place, Hometown">
+    <meta name="author" content="Dikchha Rijal">
+    <title>Dikchha Rijal, Personal Portfolio</title>
+    <link rel="stylesheet" href="CSS/style.css" type="text/css">
+    <script src="javascript/Projects.js" defer></script>
+</head>
+
+<body>
+
+    <header>
+        <nav>
+            <img src="Images/logo.png" src="Logo" width="60" height="60">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="index.html">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="resume.html">RESUME</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="projects.html">PROJECTS</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="contact.html">CONTACT</a>
+
+        </nav>
+    </header>
+
+    <div class="page3-section">
+        <h1>My Projects</h1>
+<div id="container">
+            <div id="ProjectContainer">
+
+               
+            </div>
+
+            <div class="Button">
+                <button id="prev">Previous</button>
+                <button id="next">Next</button>
+
+
+            </div>
+
+    </div>
+
+</body>
+
+</html>

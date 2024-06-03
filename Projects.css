@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    background: bisque;
+}
+
+header nav {
+    text-align: right;
+    margin-right: 20px;
+    padding: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: black;
+    font-weight: bold;
+    font-size:larger;
+    text-decoration:none;
+    background-position: top;
+    background-color: #e7c230;
+    text-decoration:solid;
+}
+#container{
+ border: 2px solid;
+ display:flexbox;
+ max-width: 50%;
+}
